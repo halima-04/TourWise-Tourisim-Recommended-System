@@ -1,0 +1,21 @@
+Model,Rank,Attraction,Category,Location,Price,Recommendation Score
+Popularity,1,Zilker Metropolitan Park,Park,"2100 Barton Springs Road | Austin, TX 78704",,4.698455664090594
+Popularity,2,Grand Canyon National Park,National Park,"Grand Canyon, AZ 86023",,4.687760712931361
+Popularity,3,The Metropolitan Museum of Art,Art Gallery,"1000 5th Ave | New York, NY 10028",$,4.662473097626681
+Popularity,4,San Diego Zoo,Zoo,"2920 Zoo Dr | San Diego, CA 92101",,4.628472526083447
+Popularity,5,Central Park,Historical Landmark | Park,"New York, NY",$$,4.621928570734032
+Content-Based,1,Arab World Institute,Cultural Center,1 Rue des Fossés Saint-Bernard | 75005 Paris | France,,0.2330265958499899
+Content-Based,2,Parque del Oeste,Park,"Paseo de Moret, 2 | 28008 Madrid | Spain",,0.1998884535675713
+Content-Based,3,Parque del Alamillo,Park,"Cortijo del Alamillo | Isla de la Cartuja | 41092 Sevilla, Spain",,0.1998884535675713
+Content-Based,4,Parque del Amor,Park,Malecón Cisneros | Miraflores | Peru,,0.1998884535675713
+Content-Based,5,Parque del Capricho,Park | Tourist Attraction,"Paseo de la Alameda de Osuna, s/n | 28042 Madrid | MADRID, Spain",,0.1863829436618067
+User-Based CF,1,Museum of the Americas,Museum,"Av de los Reyes Católicos, 6 | 28040 Madrid | Spain",,5.0
+User-Based CF,2,Museo Sorolla,Museum,"Paseo del General Martínez Campos, 37 | 28010 Madrid | Spain",,5.0
+User-Based CF,3,Palacio de Cristal de la Arganzuela,Monument,"Paseo de la Chopera, 10 | 28045 Madrid | Spain",,5.0
+User-Based CF,4,Plaza de Oriente,Park,"Plaza de Oriente, s/n | 28013 Madrid | Spain",,5.0
+User-Based CF,5,Parque del Capricho,Park | Tourist Attraction,"Paseo de la Alameda de Osuna, s/n | 28042 Madrid | MADRID, Spain",,4.999999999999999
+SVD,1,La Chocita del Loro,Performing Arts Theater,"Calle Gran Vía, 70 | 28013 Madrid | Spain",,0.570965855686267
+SVD,2,Palacio de Deportes de la Comunidad de Madrid,Performing Arts Theater,"Av Felipe II, s/n | 28009 Madrid | Spain",,0.4395328003006601
+SVD,3,Plaza de España,Monument | Park,Plaza de España | 28008 Madrid | Spain,,0.4356093802535823
+SVD,4,Matadero Madrid,Performing Arts Theater | Cultural Center,"Paseo de la Chopera, 14 | 28045 Madrid | Spain",,0.4355467810832162
+SVD,5,Palacio de Cristal de la Arganzuela,Monument,"Paseo de la Chopera, 10 | 28045 Madrid | Spain",,0.4111879981401358
